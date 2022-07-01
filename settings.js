@@ -18,21 +18,21 @@ global.autoread = true // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "PENTABOT-MD" //namabot kalian
-global.ownername= "Gempy×፝֟͜×" //nama kalian
-global.myweb ="https://www.youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw" //bebas asal jan hapus
-global.youtube = "https://www.youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw" //bebas asal jan hapus
-global.github = "https://github.com/GempyTon" //bebas
-global.email = "gempyhaxor@hotmail.com" //bebas
+global.botname = "Renz-MD" //namabot kalian
+global.ownername= "Renz×፝֟͜×" //nama kalian
+global.myweb ="https://chat.whatsapp.com/HSSbStv1qCQ8zwapaTqGp3" //bebas asal jan hapus
+global.youtube = "https://www.youtube.com/channel/UCaldPN9vH-LNBrBlP1efQKg" //bebas asal jan hapus
+global.github = "https://github.com/renzgans" //bebas
+global.email = "rendypro81@hotmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "6287898307350" // nomor wa kalian
-global.ownernomerr = "+6287898307350" //nmr wa kalian
-global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.ownernomer = "6281250365581" // nomor wa kalian
+global.ownernomerr = "+6281250365581" //nmr wa kalian
+global.thumbnail = "./image/renz.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://i.postimg.cc/L84bLpxL/menu-1.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6287898307350","6287898307350"] //ganti agar fitur owner bisa di gunakan
-global.packname = '©PENTABOTོ' //sticker wm ubah
-global.author = 'Gempy' //sticker wm ganti nama kalian
+global.owner = ["6281250365581","628998725516"] //ganti agar fitur owner bisa di gunakan
+global.packname = '©RenzStoreDLོ' //sticker wm ubah
+global.author = '©RenzStoreDL' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -45,14 +45,14 @@ global.mess = {
     sukses: '🤗Done, Oke Trimakasih~',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !!',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
-    owner: 'COMMAND INI HANYA BISA DIGUNAKAN GEMPY',
+    owner: 'COMMAND INI HANYA BISA DIGUNAKAN RENZ GANTENG',
     group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
     private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
 	bot: 'Fitur Khusus Pengguna Nomor Bot',
     errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
-    wait: '⏳Process...|| Join grup\nhttps://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2',
-	lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
-	example1: 'HALO @user SELAMAT DATANG DI @subject JANGAN LUPA BACA DESC\n\nJASA RUN BOT GEMPY\nHARGA MURMER\nCHAT AJA WA DIBAWAH\nwa.me/6287898307350\nBOT AKTIF 24JAM\TANPA INTERNET,BOT TETEP ON'
+    wait: '⏳Process...|| Join grup\nhttps://chat.whatsapp.com/HSSbStv1qCQ8zwapaTqGp3',
+	lockCmd: 'Fitur Tidak Diaktifkan Oleh Renz!',
+	example1: 'HALO @user SELAMAT DATANG DI @subject JANGAN LUPA BACA DESC\n\nJASA RUN BOT GEMPY\nHARGA MURMER\nCHAT AJA WA DIBAWAH\nwa.me/6281250365581\nBOT AKTIF 24JAM\TANPA INTERNET,BOT TETEP ON'
 }
 
 let file = require.resolve(__filename)
